@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,Answer,Topic
+What is print(2**3)?,6,8,9,7,8,Python
+Which keyword declares a class in Java?,class,def,function,struct,class,Java
+Which symbol is a comment in C?,//,/* */,#,<!--,//,C
+What does len("Python") return?,5,6,7,8,6,Python
+Which adds to a Python list?,append,add,insert,extend,append,Python
+Java inheritance keyword?,extends,implements,super,inherit,extends,Java
+C file extension?,.c,.cpp,.java,.py,.c,C
+Convert string to int in Python?,str(),int(),float(),char(),int(),Python
+Java method keyword?,function,def,void,method,void,Java
+C modulus operator?,%,/,*,^,%,C
